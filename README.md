@@ -1,2 +1,2 @@
-# -git_test-
+odin projects for DK
 Dural's first GitHub Repo!
